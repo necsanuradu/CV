@@ -1,13 +1,15 @@
-## Your Name
+## Radu Necsanu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Trying to make it as a programmer. No achievements yet. Programmably what you get out stays  always in tune with what you put in.
 
 ## Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **https://doregex.com** | A web app that enlightens the usage of regular expressions. | PHP, HTML, Javascript, CSS |
+| **https://httpraw.com** | A centralised PHP library that controls the (in/out)put and eknowledges Javascript as a partner.| PHP |
+| **https://www.httpasap.com/golfsaga/** | A web app game the likes of candy saga | Javascript, HTML, CSS |
+| **https://httpasap.com** | A workplace communication and control tool | PHP, HTML, Javascript, CSS |
 
 ## Work Experience
 
