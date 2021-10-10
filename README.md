@@ -8,7 +8,6 @@ Trying to make it as a programmer. No achievements yet. Programmably what you ge
 | ---------------------------- | ----------------- | ----------------- |
 | **https://doregex.com** | A web app that enlightens the usage of regular expressions. | PHP, HTML, Javascript, CSS |
 | **https://httpraw.com** | A centralised PHP library that controls the (in/out)put and eknowledges Javascript as a partner.| PHP |
-| **https://www.httpasap.com/golfsaga/** | A web app game the likes of candy saga | Javascript, HTML, CSS |
 | **https://httpasap.com** | A workplace communication and control tool | PHP, HTML, Javascript, CSS |
 
 ## Work Experience
