@@ -1,8 +1,9 @@
-## Radu Necsanu
+# Radu Necsanu
 
 ## Personal Profile
-My code is an extention of me since I was and still am spending so much of my time coding. It used to be all over the place doing its job(that is true). See now after Makers my code should be nice and dry, short but descriptive and surely well tested.
-constant Me = {
+My code must be an extention of me since I am still spending so much of my time writing it. It used to be all over the place doing its job(it is true). See now after Makers my code should be nice and dry, short but descriptive and surely well tested.
+```
+const Radu = {
 ProblemSolver : true,
 LogicalThinker : true,
 Persistent : true,
@@ -13,20 +14,24 @@ Honest : true,
 Humble : true,
 BornToCode : true
 }
-
+```
 
 ## Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **https://doregex.com** | A web app that enlightens the usage of regular expressions. | PHP, HTML, Javascript, CSS-Bootstrap |
+| **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, CSS-Bootstrap |
 | **https://httpraw.com** | A centralised PHP library pretty much React in PHP| PHP/Javascript |
 | **https://httpasap.com** | A workplace communication and control tool | PHP, HTML, Javascript, CSS |
 
+## Education
+
+
+
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Springfield Hotel - London** (September 2009 to May 2021)  
+_Reception Manager/Receptionist_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
