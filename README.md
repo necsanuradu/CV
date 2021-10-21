@@ -11,7 +11,6 @@ ResistantToStress : true,
 BigDataHandler : true,
 Patient : true,
 Honest : true,
-Humble : true,
 BornToCode : true
 }
 ```
