@@ -1,13 +1,26 @@
 ## Radu Necsanu
 
-Trying to make it as a programmer. No achievements yet. Programmably what you get out stays  always in tune with what you put in.
+## Personal Profile
+My code is an extention of me since I was and still am spending so much of my time coding. It used to be all over the place doing its job(that is true). See now after Makers my code should be nice and dry, short but descriptive and surely well tested.
+constant Me = {
+ProblemSolver : true,
+LogicalThinker : true,
+Persistent : true,
+ResistantToStress : true,
+BigDataHandler : true,
+Patient : true,
+Honest : true,
+Humble : true,
+BornToCode : true
+}
+
 
 ## Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **https://doregex.com** | A web app that enlightens the usage of regular expressions. | PHP, HTML, Javascript, CSS |
-| **https://httpraw.com** | A centralised PHP library that controls the (in/out)put and eknowledges Javascript as a partner.| PHP |
+| **https://doregex.com** | A web app that enlightens the usage of regular expressions. | PHP, HTML, Javascript, CSS-Bootstrap |
+| **https://httpraw.com** | A centralised PHP library pretty much React in PHP| PHP/Javascript |
 | **https://httpasap.com** | A workplace communication and control tool | PHP, HTML, Javascript, CSS |
 
 ## Work Experience
