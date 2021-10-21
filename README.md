@@ -20,7 +20,7 @@ bornToCode : true
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **https://doregex.com** | Web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, CSS-Bootstrap |
-| **https://httpraw.com** | Centralised PHP library pretty much React in PHP| PHP/Javascript |
+| **https://httpraw.com** | Centralised PHP library pretty much React in PHP| PHP, Javascript |
 | **https://httpasap.com** | Workplace communication and control tool | PHP, HTML, Javascript, CSS |
 
 ## Skills
