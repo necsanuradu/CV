@@ -1,9 +1,9 @@
 # Radu Necsanu
 
 ## Personal Profile
-My code is an extention of me that is why I am spending so much of my time writing it. It used to be all over the place doing its job(true). Now after Makers my code should be nice and dry, short but descriptive and surely well tested.
+My code is an extension of me that is why I am spending so much of my time writing it. It used to be all over the place doing its job (true). Now, after Makers my code should be nice and dry, short but descriptive and surely well tested.
 ```
-const Radu = {
+const me = {
 problemSolver : true,
 logicalThinker : true,
 persistent : true,
@@ -19,7 +19,7 @@ bornToCode : true
 ## Projects 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **https://doregex.com** | Web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, CSS-Bootstrap |
+| **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, Bootstrap |
 | **https://httpraw.com** | Centralised PHP library pretty much React in PHP| PHP, Javascript |
 | **https://httpasap.com** | Workplace communication and control tool | PHP, HTML, Javascript, CSS |
 
