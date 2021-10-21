@@ -4,14 +4,15 @@
 My code must be an extention of me since I am still spending so much of my time writing it. It used to be all over the place doing its job(it is true). See now after Makers my code should be nice and dry, short but descriptive and surely well tested.
 ```
 const Radu = {
-ProblemSolver : true,
-LogicalThinker : true,
-Persistent : true,
-ResistantToStress : true,
-BigDataHandler : true,
-Patient : true,
-Honest : true,
-BornToCode : true
+problemSolver : true,
+logicalThinker : true,
+persistent : true,
+resistantToStress : true,
+bigDataHandler : true,
+fastLearner: true,
+patient : true,
+honest : true,
+bornToCode : true
 }
 ```
 
@@ -19,12 +20,14 @@ BornToCode : true
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, CSS-Bootstrap |
-| **https://httpraw.com** | A centralised PHP library pretty much React in PHP| PHP/Javascript |
-| **https://httpasap.com** | A workplace communication and control tool | PHP, HTML, Javascript, CSS |
+| **https://doregex.com** | Web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, CSS-Bootstrap |
+| **https://httpraw.com** | Centralised PHP library pretty much React in PHP| PHP/Javascript |
+| **https://httpasap.com** | Workplace communication and control tool | PHP, HTML, Javascript, CSS |
 
 ## Education
 
+**Univ Gh.Asachi - Iasi, Romania** (September 2003 to June 2006)
+_Diploma of Higher Education in Materials Engineering_
 
 
 ## Work Experience
@@ -32,44 +35,24 @@ BornToCode : true
 **Springfield Hotel - London** (September 2009 to May 2021)  
 _Reception Manager/Receptionist_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- working in fast pase environment with lots of comunication channels, being responsable.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Aquaterm - Romania** (May 2006 to September 2008)  
+_Gas Engineer_
 
 ## Skills
+_Programming: PHP, HTML, Javascript, Jquery, Ruby(on Rails), CSS-Bootstrap, SQL, React_
+_Testing: Jasmine, Jest, Rspec_
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+## Certifications/Licences
 
--STAR
--What was the situation/task? (ST)
+_Introduction to UI Design (October 2020)_
+Authorized by University of Minnesota and offered through Coursera
 
--How was the skill used?
+_Front-End Web UI Frameworks and Tools: Bootstrap 4 (October 2020)_
+Authorized by The Hong Kong University of Science and Technology and offered through Coursera
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
+_Makers Academy Bootcamp (October 2021)_
 
 #### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -92,4 +75,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Tennis
