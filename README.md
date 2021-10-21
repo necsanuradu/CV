@@ -1,7 +1,7 @@
 # Radu Necsanu
 
 ## Personal Profile
-My code must be an extention of me since I am still spending so much of my time writing it. It used to be all over the place doing its job(it is true). See now after Makers my code should be nice and dry, short but descriptive and surely well tested.
+My code is an extention of me that is why I am spending so much of my time writing it. It used to be all over the place doing its job(true). Now after Makers my code should be nice and dry, short but descriptive and surely well tested.
 ```
 const Radu = {
 problemSolver : true,
