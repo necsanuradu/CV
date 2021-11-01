@@ -40,7 +40,7 @@ const meHired = {
   bigDataHandler: true,
   fastLearner: true,
   bornToCode: true,
-  automationInclined : true,
+  automationInclined: true,
   checkData: () => {
     let decisionBe =
       Object.values(meHired).filter((value) => value === true).length === 11
