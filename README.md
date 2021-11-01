@@ -62,7 +62,7 @@ meHired.checkData();
 
 ## Skills
 **Programming**<br />
-_PHP, Javascript, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap)_<br />
+_Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap)_<br />
 **Testing**<br />
 _Jasmine, Jest, Rspec_
 
