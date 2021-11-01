@@ -62,7 +62,7 @@ meHired.checkData();
 
 ## Skills
 **Programming**<br />
-_PHP, HTML, Javascript, Jquery, Ruby(on Rails), CSS-Bootstrap, SQL, React_<br />
+_PHP, Javascript, Jquery, Ruby(on Rails), HTML, React, CSS-Bootstrap, SQL_<br />
 **Testing**<br />
 _Jasmine, Jest, Rspec_
 
@@ -86,7 +86,6 @@ _Authorized by The Hong Kong University of Science and Technology and offered th
 ## Education
 **Univ Gh.Asachi - Iasi, Romania** (September 2003 to June 2006)<br />
 _Diploma of Higher Education in Materials Engineering_
-
 
 ## Work Experience
 **Springfield Hotel - London** (September 2009 to May 2021) <br />
