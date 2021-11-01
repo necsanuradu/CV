@@ -57,8 +57,8 @@ meHired.checkData();
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, Bootstrap |
-| **https://httpraw.com** | Centralised PHP library pretty much React in PHP| PHP, Javascript |
-| **https://httpasap.com** | Workplace communication and workflow control tool | PHP, HTML, Javascript, CSS |
+| **https://httpraw.com** | Centralised PHP library pretty much React in PHP. | PHP, Javascript |
+| **https://httpasap.com** | Workplace communication and workflow control tool. | PHP, HTML, Javascript, CSS |
 
 ## Skills
 **Programming**<br />
