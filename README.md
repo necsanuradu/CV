@@ -39,8 +39,8 @@ const meHired = {
   resistantToStress: true,
   bigDataHandler: true,
   fastLearner: true,
-  bornToCode: true,
   automationInclined: true,
+  bornToCode: true,
   checkData: () => {
     let decisionBe =
       Object.values(meHired).filter((value) => value === true).length === 11
