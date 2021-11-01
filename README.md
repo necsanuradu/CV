@@ -11,18 +11,18 @@ Before Makers I have worked in the Hotel Industry(while being a freelancer/web d
 I have always found joy in solving problems and soon enough I found out that most of our problems these days are exposed and gain recognition while validated by the online medium.
 
 ### What am I valuing at my next job?
-_Trust - trust that what I do counts and makes a real impact for the company._
-_Honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._
-_Patience - to teach, to listen and learn from others whilst adding my own spin._
-_Output - every single line of code can be discussed, questioned and needs to be thoroughly tested._
+_Trust - trust that what I do counts and makes a real impact for the company._<br />
+_Honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._<br />
+_Patience - to teach, to listen and learn from others whilst adding my own spin._<br />
+_Output - every single line of code can be discussed, questioned and needs to be thoroughly tested._<br />
 
 ### What am I briliant at or otherwise?
-_I have a beautiful imagination that can compile huge collections of data._
-_I am good at breaking ideas into smaller concepts that allows me to move through the context at different levels without getting lost._
-_I am good at covering all angles of a proposed solution thinking ahead but coding the present._
-_I am good at asking the right questions, I see thing that other do not see and putting us together always exposes more of our progression._
-_I am good at admitting when I am wrong, I can not accept that there is a better solution to a problem and not implement it even if it is not mine._
-_I am good at saying there is something that needs to be discussed if that is the case, I will say it in the niceist manner but I will say it if it affects the project._
+_I have a beautiful imagination that can compile huge collections of data._<br />
+_I am good at breaking ideas into smaller concepts that allows me to move through the context at different levels without getting lost._<br />
+_I am good at covering all angles of a proposed solution thinking ahead but coding the present._<br />
+_I am good at asking the right questions, I see thing that other do not see and putting us together always exposes more of our progression._<br />
+_I am good at admitting when I am wrong, I can not accept that there is a better solution to a problem and not implement it even if it is not mine._<br />
+_I am good at saying there is something that needs to be discussed if that is the case, I will say it in the niceist manner but I will say it if it affects the project._<br />
 
 ### Where do I think I can improve?
 I had a problem when people tried to run the alpha position and lead in any direction that they feel comfortable, sometimes against the interests of the project and not on merits but I am currently working on this, I had insightful,  meaningful sessions with well-being coaches(Dana and Candida) on how to approach and disengage in such conditions.
