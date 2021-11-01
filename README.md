@@ -67,12 +67,12 @@ _Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap)_<br />
 _Jasmine, Jest, Rspec_
 
 ## GitHub
-### Final Project
+#### Final Project
  - _Golfsaga(stack Express, React, Node). Another puzzle type of game: https://github.com/necsanuradu/golfsaga_
-### Final Code Quality Reviews
+#### Final Code Quality Reviews
 - _Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test_
 - _Gilded Rose Tech test(Javascript/TDD Jasmine): https://github.com/necsanuradu/gilded-rose-tech-test_
-### Other Projects and Challenges
+#### Other Projects and Challenges
 - _https://github.com/necsanuradu/_
 
 ## Certifications/Licences
