@@ -25,7 +25,7 @@ I have always found joy in solving problems and soon enough I found out that mos
 * _I am good at saying there is something that needs to be discussed if that is the case, I will say it in the niceist manner but I will say it if it affects the project._<br />
 
 ### Where do I think I can improve?
-I had a problem when people tried to run the alpha position and lead in any direction that they feel comfortable with, sometimes against the interests of the group/project and not on merits but I am currently working on this, I had insightful,  meaningful sessions with well-being coaches(Dana and Candida) on how to approach and disengage in such conditions.
+I had a problem when people tried to run the alpha position and lead in any direction that they felt comfortable with, sometimes against the interests of the group/project and not on merits but I am currently working on this, I had insightful,  meaningful sessions with well-being coaches(Dana and Candida) on how to approach and disengage in such conditions.
 
 ### Me as a Javascrit object
 ```
