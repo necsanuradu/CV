@@ -16,7 +16,7 @@ I have always found joy in solving problems and soon enough I found out that mos
 * _Patience - to teach, to listen and learn from others whilst adding my own spin._<br />
 * _Output - every single line of code can be discussed, questioned and needs to be thoroughly tested._<br />
 
-### What am I briliant at or otherwise?
+### What am I brilliant at or otherwise?
 * _I have a beautiful imagination that can compile huge collections of data._<br />
 * _I am good at breaking ideas into smaller concepts that allows me to move through the context at different levels without getting lost._<br />
 * _I am good at covering all angles of a proposed solution thinking ahead but coding the present._<br />
