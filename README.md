@@ -5,7 +5,7 @@
 My code is an extension of me that is why I am spending so much of my time writing it. It used to be all over the place doing its job (true). Now, after Makers my code should be nice and dry, short but descriptive and surely well tested.
 
 ### What was I doing before Makers?
-Before Makers I have worked in the Hotel Industry(while being a freelancer/web developer), studied Materials Science and Engineering and worked as a gas engineer.
+Before Makers, I have worked in the Hotel Industry(while being a freelancer/web developer), studied Materials Science and Engineering and worked as a gas engineer.
 
 ### Why am I starting a career in software development?
 I have always found joy in solving problems and soon enough I found out that most of our problems these days are exposed and gain recognition while validated by the online medium.
