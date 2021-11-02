@@ -21,7 +21,7 @@ I have always found joy in solving problems and soon enough I found out that mos
 * _I am good at breaking ideas into smaller concepts that allows me to move through the context at different levels without getting lost._<br />
 * _I am good at covering all angles of a proposed solution thinking ahead but coding the present._<br />
 * _I am good at asking the right questions._<br/>
-* _I see things that other might miss and putting us together will always expose more of our progression._<br />
+* _I see things that other might miss and putting us together will always expose more of our progress._<br />
 * _I am good at admitting when I am wrong, I can not accept that there is a better solution to a problem and not implement it even if it is not mine._<br />
 * _I am good at saying there is something that needs to be discussed if that is the case, I will say it in the nicest manner but I will say it if it affects the project._<br />
 
