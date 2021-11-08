@@ -16,7 +16,6 @@ I can not see my self doing anything else and extend as much of me into it, enjo
 * _Trust - trust that what I do counts and makes a real impact for the company._<br />
 * _Honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._<br />
 * _Patience -  to listen, to teach and learn from others whilst adding my own spin._<br />
-* _Output - every single line of code can be discussed, questioned and needs to be thoroughly tested._<br />
 
 ### Strengths
 * _I have a strong imagination that can compile huge collections of data._<br />
