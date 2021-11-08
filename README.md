@@ -1,6 +1,8 @@
 # Radu Necsanu
 
 ## Personal Profile
+Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less), Git. Testing Jasmine, Jest, Rspec
+
 ### My code
 Is a part of me, of my way of thinking showing the best of me in visible terms of speed and vision. It used to be all over the place doing its job. Now, after Makers my code should be nice and dry, short but descriptive and surely well tested.
 
