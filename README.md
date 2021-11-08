@@ -1,58 +1,28 @@
 # Radu Necsanu
 
 ## Personal Profile
-### My code?
-My code is an extension of me that is why I am spending so much of my time writing it. It used to be all over the place doing its job (true). Now, after Makers my code should be nice and dry, short but descriptive and surely well tested.
+### My code
+Is a part of me, of my way of thinking showing the best of me in visible terms of speed and vision. It used to be all over the place doing its job. Now, after Makers my code should be nice and dry, short but descriptive and surely well tested.
 
-### What was I doing before Makers?
-Before Makers, I have worked in the Hotel Industry(while being a freelancer/web developer), studied Materials Science and Engineering and worked as a gas engineer.
+### Before Makers
+Before Makers, I have worked in the Hotel Industry(while being a freelancer/web developer), studied Materials Science and Engineering and worked as a gas engineer for a short period of time.
 
-### Why am I starting a career in software development?
-I have always found joy in solving problems and soon enough I found out that most of our problems these days are exposed and gain recognition while validated by the online medium.
+### Why software development?
+I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigour.
 
 ### What am I valuing at my next job?
 * _Trust - trust that what I do counts and makes a real impact for the company._<br />
 * _Honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._<br />
-* _Patience - to teach, to listen and learn from others whilst adding my own spin._<br />
+* _Patience -  to listen, to teach and learn from others whilst adding my own spin._<br />
 * _Output - every single line of code can be discussed, questioned and needs to be thoroughly tested._<br />
 
 ### What am I brilliant at or otherwise?
-* _I have a beautiful imagination that can compile huge collections of data._<br />
+* _I have a strong imagination that can compile huge collections of data._<br />
 * _I am good at breaking ideas into smaller concepts that allows me to move through the context at different levels without getting lost._<br />
 * _I am good at covering all angles of a proposed solution thinking ahead but coding the present._<br />
 * _I am good at asking the right questions._<br/>
 * _I see things that other might miss and putting us together will always expose more of our progress._<br />
-* _I am good at admitting when I am wrong, I can not accept that there is a better solution to a problem and not implement it even if it is not mine._<br />
-* _I am good at saying there is something that needs to be discussed if that is the case, I will say it in the nicest manner but I will say it if it affects the project._<br />
-
-### Where do I think I can improve?
-I had a problem when people tried to run the alpha position and lead in any direction that they felt comfortable with, sometimes against the interests of the group/project and not on merits but I am currently working on this, I had insightful,  meaningful sessions with well-being coaches(Dana and Candida) on how to approach and disengage in such conditions.
-
-### Me as a Javascript object
-```
-const meHired = {
-  patient: true,
-  honest: true,
-  humble: true,
-  problemSolver: true,
-  logicalThinker: true,
-  resilient: true,
-  resistantToStress: true,
-  bigDataHandler: true,
-  fastLearner: true,
-  automationInclined: true,
-  bornToCode: true,
-  checkData: () => {
-    let decisionBe =
-      Object.values(meHired).filter((value) => value === true).length === 11
-        ? "Hired!"
-        : "Not so much.";
-    alert(decisionBe);
-  },
-};
-meHired.checkData();
-
-```
+* _I am good at admitting when I am wrong._<br />
 
 ## Projects 
 | Name                         | Description       | Tech/tools        |
