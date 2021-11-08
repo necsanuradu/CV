@@ -7,16 +7,16 @@ Is a part of me, of my way of thinking showing the best of me in visible terms o
 ### Before Makers
 Before Makers, I have worked in the Hotel Industry(while being a freelancer/web developer), studied Materials Science and Engineering and worked as a gas engineer for a short period of time.
 
-### Why software development?
+### Why software development
 I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigour.
 
-### What am I valuing at my next job?
+### Job values
 * _Trust - trust that what I do counts and makes a real impact for the company._<br />
 * _Honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._<br />
 * _Patience -  to listen, to teach and learn from others whilst adding my own spin._<br />
 * _Output - every single line of code can be discussed, questioned and needs to be thoroughly tested._<br />
 
-### What am I brilliant at or otherwise?
+### Strengths
 * _I have a strong imagination that can compile huge collections of data._<br />
 * _I am good at breaking ideas into smaller concepts that allows me to move through the context at different levels without getting lost._<br />
 * _I am good at covering all angles of a proposed solution thinking ahead but coding the present._<br />
