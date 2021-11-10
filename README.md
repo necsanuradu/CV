@@ -13,7 +13,7 @@ Before Makers, I have worked in the Hotel Industry(while being a freelancer/web 
 I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigour.
 
 ### Job values
-* _trust - trust that what I do counts and makes a real impact for the company._<br />
+* _trust - that what I do counts and makes a real impact for the company._<br />
 * _honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._<br />
 * _patience -  to listen, to teach and learn from others whilst adding my own spin._<br />
 
