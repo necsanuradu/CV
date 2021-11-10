@@ -18,12 +18,16 @@ I can not see my self doing anything else and extend as much of me into it, enjo
 * _Patience -  to listen, to teach and learn from others whilst adding my own spin._<br />
 
 ### Strengths
-* _I have a strong imagination that can compile huge collections of data._<br />
-* _I am good at breaking ideas into smaller concepts that allows me to move through the context at different levels without getting lost._<br />
-* _I am good at covering all angles of a proposed solution thinking ahead but coding the present._<br />
-* _I am good at asking the right questions._<br/>
-* _I see things that other might miss and putting us together will always expose more of our progress._<br />
-* _I am good at admitting when I am wrong._<br />
+* _adaptable - I can adapt to variations in work or environment and my effectiveness isn’t impacted by change. I am flexible and versatile and act as an advocate for change._<br />
+* _analytical - I seek and analyse information to inform decisions based on the best available evidence._<br />
+* _efficient - I convert resources into results in the most efficient and economical way._<br />
+* _improver - I look for better ways of doing things and enjoy coming up with new and original ideas._<br />
+* _learner - I am inquisitive, I seek out new information and look for new ways to develop myself._<br/>
+* _problem solver - I take a positive approach to tackling problems and find ways to identify suitable solutions._<br />
+* _resilient - I have inner composure, recover quickly from setbacks and learn from them._<br />
+* _responsible - I take ownership for my decisions and hold myself accountable for what I have promised to deliver._<br />
+* _strategic - I look at the big picture and consider the wider factors and long term implications of decisions._<br />
+* _visionary - I create and share a clear vision of the future._<br />
 
 ## Projects 
 | Name                         | Description       | Tech/tools        |
