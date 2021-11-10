@@ -15,7 +15,7 @@ I can not see my self doing anything else and extend as much of me into it, enjo
 ### Job values
 * _trust - the work environment is open, honest, collaborative, what I do counts and makes a real impact for the company._<br />
 * _honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._<br />
-* _patience -  to listen, to reach and learn from others whilst adding my own spin._<br />
+* _patience -  to listen, reach and learn from others whilst adding my own spin._<br />
 
 ### Strengths
 * _adaptable - I can adapt to variations in work or environment and my effectiveness isn’t impacted by change. I am flexible and versatile and act as an advocate for change._<br />
