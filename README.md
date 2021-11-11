@@ -70,7 +70,7 @@ _Authorized by The Hong Kong University of Science and Technology and offered th
 _Diploma of Higher Education in Materials Engineering_
 
 ## Work Experience
-**Springfield Hotel - London** (September 2009 to May 2021) <br />
+**Springfield Hotel - London** (September 2011 to June 2021) <br />
 _Reception Manager/Receptionist_
 - working in fast paced environment with lots of communication channels.
 
