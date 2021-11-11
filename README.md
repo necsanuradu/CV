@@ -23,7 +23,7 @@ I can not see my self doing anything else and extend as much of me into it, enjo
 * _efficient - I convert resources into results in the most efficient and economical way._<br />
 * _explainer - I communicate thoughts and ideas, verbally or in writing, simplifying complexities and adapting communication so others can understand._<br />
 * _improver - I look for better ways of doing things and enjoy coming up with new and original ideas._<br />
-* _learner - I am inquisitive, I seek out new information and look for new ways to develop myself._<br/>
+* _self learner - I am inquisitive, I seek out new information and look for new ways to develop myself._<br/>
 * _problem solver - I take a positive approach to tackling problems and find ways to identify suitable solutions._<br />
 * _resilient - I have inner composure, recover quickly from setbacks and learn from them._<br />
 * _responsible - I take ownership for my decisions and hold myself accountable for what I have promised to deliver._<br />
