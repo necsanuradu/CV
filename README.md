@@ -3,7 +3,7 @@
 ## Personal Profile
 Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less), Git. Testing Jasmine, Jest, Rspec
 
-### My programming
+### My scripting
 Language agnostic, dry while test driven, object orientated, short but descriptive.
 
 ### Before time
