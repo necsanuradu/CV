@@ -4,7 +4,7 @@
 Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less), Git. Testing Jasmine, Jest, Rspec
 
 ### My scripting
-Language agnostic, dry while test driven, object orientated, short but descriptive.
+Language agnostic, dry while test driven, object oriented, short but descriptive.
 
 ### Before time
 I have worked in the Hotel Industry, freelancing as a developer for a couple of years, studied Materials Science and Engineering and worked as a gas engineer for a short period of time.
