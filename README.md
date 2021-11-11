@@ -28,7 +28,6 @@ I can not see my self doing anything else and extend as much of me into it, enjo
 * _resilient - I have inner composure, recover quickly from setbacks and learn from them._<br />
 * _responsible - I take ownership for my decisions and hold myself accountable for what I have promised to deliver._<br />
 * _strategic - I look at the big picture and consider the wider factors and long term implications of decisions._<br />
-* _visionary - I create and share a clear vision of the future._<br />
 
 ## Projects 
 | Name                         | Description       | Tech/tools        |
