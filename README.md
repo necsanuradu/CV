@@ -4,10 +4,10 @@
 Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less), Git. Testing Jasmine, Jest, Rspec
 
 ### My code
-Is a part of me, of my way of thinking showing the best of me in visible terms of speed and vision. It used to be all over the place doing its job. Now, after Makers my code should be nice and dry, short but descriptive and surely well tested.
+Nice and dry test driven, object orientated, short but descriptive.
 
-### Before Makers
-Before Makers, I have worked in the Hotel Industry(while being a freelancer/web developer), studied Materials Science and Engineering and worked as a gas engineer for a short period of time.
+### Before
+I have worked in the Hotel Industry, freelancing as a developer for a couple of years, studied Materials Science and Engineering and worked as a gas engineer for a short period of time.
 
 ### Why software development
 I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigour.
