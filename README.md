@@ -1,40 +1,28 @@
 # Radu Necsanu
 
 ## Personal Profile
-Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less), Git. Testing Jasmine, Jest, Rspec
+After working in the Hotel Industry for several years and doing some freelancing as a developer I have decided to change careers and follow my passion for coding. Seamlessly in this world everything has measure, meaning, every line of code has purpose and everything can be achieved employing the right tools. I have worked with a few programming languages but that it is not important what is important is that my skills born with or developed in time are congruent with scripting that is language agnostic, dry while test driven, object oriented, short but descriptive whether in Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less) or testing in Jasmine, Jest, Rspec. Simply I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigor.
+I expect mutual trust, collaboration, honesty and underlying patience. I will bring with me unconditionally: adaptability, analytical skills, efficiency, self-learning capabilities, resilience and responsibility.
 
-### My scripting
-Language agnostic, dry while test driven, object oriented, short but descriptive.
+### Case study
+* In my previous work place from scratch, knowing nothing about programming I have managed to create a Hotel Management App that worked on a local machine and in the end convinced the management to employ online tech for the job using Little Hotelier. This decision changed all the aspects of the business in a positive way, increasing productivity, sales even if we were not necessarily at the time the most appealing brand on the street.
+Later in the same work place with the purpose of ensuring a landing place in the top 3(settable) for us on Booking.com on the first page using again local means, our own Chrome extension I have developed an exciting and perfectly calibrated way of updating the prices on Little Hotelier in real time based on a report produced while scanning Booking.com for months ahead. Done manually this process would have been too long hence futile since by simply changing the prices for any other two competitors  the current position would have been lost.
 
-### Before time
-I have worked in the Hotel Industry, freelancing as a developer for a couple of years, studied Materials Science and Engineering and worked as a gas engineer for a short period of time.
+* As a developer so often in need of a regular expression and never tacking the time to learn the whole concept out of the scope of current code I was working on but repeating the same route a couple of times I believed in the opportunity to created a web app that generates regular expressions using user input in a human readable way(https://doregex.com) with all the options one can think of.
 
-### Why software development
-I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigour.
+* As a developer I have written libraries(https://httpraw.com) for PHP trying to couple it definitively to Javascript as it should be since the latter one is not optional. That allowed me to write huge amounts of code years ago(code that as performance could not be beaten today whether in PHP or Javascript), still delivers as expected to this day and I have used that in the projects I have worked on after. Like a website(https://httpasap.com) that enhances the workplace communication and workflow control a web app that allows file encryption(creating one of the best algorithms for encryption out there).
 
-### Job values
-* _trust - the work environment is open, honest, collaborative, what I do counts and makes a real impact for the company._<br />
-* _honesty - the truth always reveals itself anything but the truth about the state of things it is just an unaffordable delay._<br />
-* _patience - to listen, reach and learn from others while adding my own spin._<br />
+* As a developer on my final project with Makers Bootcamp I had to work for personal reasons on my own and only for a week out of the two and still was able to produce a full game in React much like Candysaga called Golfsaga,  https://drive.google.com/file/d/1ykPGalD2YX1kKSb5L4isNVCJyruWRjsm/view?usp=sharing.
 
-### Strengths
-* _adaptable - I can adapt to variations in work or environment and my effectiveness isn’t impacted by change. I am flexible and versatile and act as an advocate for change._<br />
-* _analytical - I seek and analyse information to inform decisions based on the best available evidence._<br />
-* _efficient - I convert resources into results in the most efficient and economical way._<br />
-* _explainer - I communicate thoughts and ideas, verbally or in writing, simplifying complexities and adapting communication so others can understand._<br />
-* _improver - I look for better ways of doing things and enjoy coming up with new and original ideas._<br />
-* _self learner - I am inquisitive, I seek out new information and look for new ways to develop myself._<br/>
-* _problem solver - I take a positive approach to tackling problems and find ways to identify suitable solutions._<br />
-* _resilient - I have inner composure, recover quickly from setbacks and learn from them._<br />
-* _responsible - I take ownership for my decisions and hold myself accountable for what I have promised to deliver._<br />
-* _strategic - I look at the big picture and consider the wider factors and long term implications of decisions._<br />
+Since then my code has improved it always does and I have managed to build those on my own imagine what I could do working in a controlled environment as part of a team.
+
 
 ## Projects 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, Bootstrap |
 | **https://httpraw.com** | Centralised PHP library pretty much React in PHP. | PHP, Javascript |
-| **https://httpasap.com** | Workplace communication and workflow control tool. | PHP, HTML, Javascript, CSS |
+| **https://httpasap.com** | Workplace communication and workflow control tool. | PHP, HTML, Javascript, Jquery, CSS |
 
 ## Skills
 **Programming**<br />
@@ -78,4 +66,5 @@ _Reception Manager/Receptionist_
 _Gas Engineer_
 
 ## Hobbies
-* _tennis, poetry_
+* _Tennis as a sport is the best for me, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
+* _I write poetry sometimes when I get the call for it however I do not read that much poetry since I feel it is distorting the way I write knowing that usually I am in the mindset of absorbing/scanning quickly for information or emerging patterns and retaining them. I have a book published in 2016 and it is in the Romanian language._
