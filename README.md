@@ -5,13 +5,10 @@ After working in the Hotel Industry for several years and doing some freelancing
 I expect mutual trust, collaboration, honesty and underlying patience. I will bring with me unconditionally: adaptability, analytical skills, efficiency, self-learning capabilities, resilience and responsibility.
 
 ### Case study
-* In my previous work place from scratch, knowing nothing about programming I have managed to create a Hotel Management App that worked on a local machine and in the end convinced the management to employ online tech for the job using Little Hotelier. This decision changed all the aspects of the business in a positive way, increasing productivity, sales even if we were not necessarily at the time the most appealing brand on the street.
-Later in the same work place with the purpose of ensuring a landing place in the top 3(settable) for us on Booking.com on the first page using again local means, our own Chrome extension I have developed an exciting and perfectly calibrated way of updating the prices on Little Hotelier in real time based on a report produced while scanning Booking.com for months ahead. Done manually this process would have been too long hence futile since by simply changing the prices for any other two competitors  the current position would have been lost.
-
+* In my previous work place(hotel) from scratch, knowing nothing about programming I have managed to create a Hotel Management App that worked on a local machine and in the end convinced the management to employ online tech for the job using Little Hotelier. This decision changed all the aspects of the business in a positive way, increasing productivity, sales even if we were not necessarily at the time the most appealing brand on the street.
+* Same work place with the purpose of ensuring a landing place in the top 3(settable) for us on Booking.com on the first page using again local means, our own Chrome extension I have developed an exciting and perfectly calibrated way of updating the prices on Little Hotelier in real time based on a report produced while scanning Booking.com for months ahead.
 * As a developer so often in need of a regular expression and never tacking the time to learn the whole concept out of the scope of current code I was working on but repeating the same route a couple of times I believed in the opportunity to created a web app that generates regular expressions using user input in a human readable way(https://doregex.com) with all the options one can think of.
-
-* As a developer I have written libraries(https://httpraw.com) for PHP trying to couple it definitively to Javascript as it should be since the latter one is not optional. That allowed me to write huge amounts of code years ago(code that as performance could not be beaten today whether in PHP or Javascript), still delivers as expected to this day and I have used that in the projects I have worked on after. Like a website(https://httpasap.com) that enhances the workplace communication and workflow control a web app that allows file encryption(creating one of the best algorithms for encryption out there).
-
+* As a developer I have written libraries(https://httpraw.com) for PHP trying to couple it definitively to Javascript as it should be since the latter one is not optional. That allowed me to write huge amounts of code years ago(code that as performance could not be beaten today whether in PHP or Javascript), still delivers as expected to this day and I have used that in the projects I have worked on after. Like a website(https://httpasap.com) that enhances the workplace communication and workflow control a web app that allows file encryption(creating one of the best algorithms for encryption out there), priority selection, level access etc.
 * As a developer on my final project with Makers Bootcamp I had to work for personal reasons on my own and only for a week out of the two and still was able to produce a full game in React much like Candysaga called Golfsaga,  https://drive.google.com/file/d/1ykPGalD2YX1kKSb5L4isNVCJyruWRjsm/view?usp=sharing.
 
 Since then my code has improved it always does and I have managed to build those on my own imagine what I could do working in a controlled environment as part of a team.
@@ -61,10 +58,12 @@ _Diploma of Higher Education in Materials Engineering_
 **Springfield Hotel - London** (September 2011 to June 2021) <br />
 _Reception Manager/Receptionist_
 - working in fast paced environment with lots of communication channels.
+- payments, rota, wages, conflict resolution, hiring, pricing..
 
 **Aquaterm - Romania** (May 2006 to September 2008)<br />
 _Gas Engineer_
+- from this workplace as newly employed I do remember being offered by some members of my team(that I was leading) money to be made during work hours doing some separate jobs, offer that I have refused (it did not make me a very popular person within the group) but it gave me the platform to lead without being derailed for external reasons even if the other members of the team had way more years of experience in their field of expertise(like welders, ground workers, designers..).
 
 ## Hobbies
-* _Tennis as a sport is the best for me, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
-* _I write poetry sometimes when I get the call for it however I do not read that much poetry since I feel it is distorting the way I write knowing that usually I am in the mindset of absorbing/scanning quickly for information or emerging patterns and retaining them. I have a book published in 2016 and it is in the Romanian language._
+* _Tennis, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
+* _I write poetry sometimes when I get the call however I do not read that much poetry since I feel it is distorting the way I write knowing that usually I am in the state of mind of absorbing/scanning quickly for information or emerging patterns and retaining them. I have a book published in 2016 and it is in the Romanian language._
