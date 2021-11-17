@@ -62,6 +62,7 @@ _Reception Manager/Receptionist_
 
 **Aquaterm - Romania** (May 2006 to September 2008)<br />
 _Gas Engineer_
+- planning and supervision of works on the extension of the gas network In the city in private and public facilities.
 - from this workplace as newly employed I do remember being offered by some members of my team(that I was leading) money to be made during work hours doing some separate jobs, offer that I have refused (it did not make me a very popular person within the group) but it gave me the platform to lead without being derailed for external reasons.
 
 ## Hobbies
