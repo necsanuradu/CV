@@ -66,4 +66,4 @@ _Gas Engineer_
 
 ## Hobbies
 * _Tennis, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
-* _I write poetry sometimes when I get the call however I do not read that much poetry since I feel it is distorting the way I write knowing that usually I am in the state of mind of absorbing/scanning quickly for information or emerging patterns and retaining them. I have a book published in 2016 and it is in the Romanian language._
+* _I write poetry sometimes when I get the call however I do not read that much poetry since I feel it is distorting the way I write knowing that usually I am in the state of mind of absorbing/scanning quickly for information or emerging patterns and retaining them. I have published a book in 2016 and it is in the Romanian language._
