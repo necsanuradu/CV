@@ -62,7 +62,7 @@ _Reception Manager/Receptionist_
 
 **Aquaterm - Romania** (May 2006 to September 2008)<br />
 _Gas Engineer_
-- from this workplace as newly employed I do remember being offered by some members of my team(that I was leading) money to be made during work hours doing some separate jobs, offer that I have refused (it did not make me a very popular person within the group) but it gave me the platform to lead without being derailed for external reasons even if the other members of the team had way more years of experience in their field of expertise(like welders, ground workers, designers..).
+- from this workplace as newly employed I do remember being offered by some members of my team(that I was leading) money to be made during work hours doing some separate jobs, offer that I have refused (it did not make me a very popular person within the group) but it gave me the platform to lead without being derailed for external reasons.
 
 ## Hobbies
 * _Tennis, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
