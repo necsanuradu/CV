@@ -2,7 +2,7 @@
 
 ## Personal Profile
 After working in the Hotel Industry for several years and doing some freelancing as a developer I have decided to change careers and follow my passion for coding. Seamlessly in this world everything has measure, meaning, every line of code has purpose and everything can be achieved employing the right tools. I have worked with a few programming languages but that it is not important what is important is that my skills born with or developed in time are congruent with scripting that is language agnostic, dry while test driven, object oriented, short but descriptive whether in Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less) or testing in Jasmine, Jest, Rspec. Simply I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigor.
-I expect mutual trust, collaboration, honesty and underlying patience. I will bring with me unconditionally: adaptability, analytical skills, efficiency, self-learning capabilities, resilience and responsibility.
+I expect mutual trust, collaboration, honesty and underlying patience. I will bring with me unconditionally: adaptability, analytical skills, efficiency, self-learning capabilities, problem solving strive, resilience and responsibility.
 
 ### Case study
 * In my previous work place(hotel) from scratch, knowing nothing about programming I have managed to create a Hotel Management App that worked on a local machine and in the end convinced the management to employ online tech for the job using Little Hotelier. This decision changed all the aspects of the business in a positive way, increasing productivity, sales even if we were not necessarily at the time the most appealing brand on the street.
