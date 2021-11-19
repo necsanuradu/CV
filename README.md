@@ -11,8 +11,6 @@ I expect mutual trust, collaboration, honesty and underlying patience. I will br
 * As a developer I have written libraries(https://httpraw.com) for PHP trying to couple it definitively to Javascript as it should be since the latter one is not optional. That allowed me to write huge amounts of code years ago(code that as performance could not be beaten today whether in PHP or Javascript), still delivers as expected to this day and I have used that in the projects I have worked on after. Like a website(https://httpasap.com) that enhances the workplace communication and workflow control a web app that allows file encryption(creating one of the best algorithms for encryption out there), priority selection, level access etc.
 * As a developer on my final project with Makers Bootcamp I had to work for personal reasons on my own and only for a week out of the two and still was able to produce a full game in React much like Candysaga called Golfsaga,  https://drive.google.com/file/d/1ykPGalD2YX1kKSb5L4isNVCJyruWRjsm/view?usp=sharing.
 
-Since then my code has improved it always does and I have managed to build those on my own imagine what I could do working in a controlled environment as part of a team.
-
 
 ## Projects 
 | Name                         | Description       | Tech/tools        |
