@@ -56,7 +56,7 @@ _Diploma of Higher Education in Materials Engineering_
 **Springfield Hotel - London** (September 2011 to June 2021) <br />
 _Reception Manager/Receptionist_
 - working in fast paced environment with lots of communication channels.
-- payments, rota, wages, conflict resolution, hiring, pricing..
+- customer service, payments, rota, wages, conflict resolution, hiring, pricing..
 
 **Aquaterm - Romania** (May 2006 to September 2008)<br />
 _Gas Engineer_
