@@ -61,8 +61,7 @@ _Reception Manager/Receptionist_
 **Aquaterm - Romania** (May 2006 to September 2008)<br />
 _Gas Engineer_
 - planning and supervision of works on the extension of the gas network In the city in private and public facilities.
-- from this workplace as newly employed I do remember being offered by some members of my team(that I was leading) money to be made during work hours doing some separate jobs, offer that I have refused (it did not make me a very popular person within the group) but it gave me the platform to lead without being derailed for external reasons.
 
 ## Hobbies
 * _Tennis, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
-* _I write poetry sometimes when I get the call however I do not read that much poetry since I feel it is distorting the way I write knowing that usually I am in the state of mind of absorbing/scanning quickly for information or emerging patterns and retaining them. I have published a book in 2016 and it is in the Romanian language._
+* _I write poetry sometimes when I get the call, I have published a book in 2016 and it is in the Romanian language._
