@@ -61,7 +61,7 @@ _Reception Manager/Receptionist_
 
 **Aquaterm - Romania** (May 2006 to September 2008)<br />
 _Gas Engineer_
-- planning and supervision of works on the extension of the gas network In the city in private and public facilities.
+- planning and supervision of works on extending the gas network.
 
 ## Hobbies
 * _Tennis, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
