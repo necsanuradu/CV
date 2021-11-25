@@ -34,7 +34,7 @@ _Jasmine, Jest, Rspec_
 - _Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test_
 - _Gilded Rose Tech test(Javascript/TDD Jasmine): https://github.com/necsanuradu/gilded-rose-tech-test_
 #### Other Projects and Challenges
-- _https://github.com/necsanuradu/_
+- _https://github.com/necsanuradu?tab=repositories_
 
 ## Certifications/Licences
 **Makers Academy Bootcamp** (July to October 2021)<br />
