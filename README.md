@@ -10,7 +10,7 @@ there are no problems.
 
 ### Key Skills
 * _Excellent organiser committed to quality_
-* _Thorough and attentive to detail taking in consideration all possible options_
+* _Thorough and attentive to details taking in consideration all possible options_
 * _Persistent and determined to meet deadlines and expectations_
 * _Analytical within the present layer as much as the whole of the product and all its processes_
 
