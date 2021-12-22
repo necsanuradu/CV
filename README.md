@@ -4,7 +4,7 @@
 Passionate, test-driven software developer adept at contributing to collaborative work environment, finding solutions, and determining client satisfaction.
 Dedicated to driving innovation with the ability to follow industry and technological trends and facilitating early adoption of innovations. Currently seeking a Software Developer role with a reputable organisation.
 
-### Personal Motto
+### Motto
 I run with a problem until certain of a proposed solution then the solution runs with me until certain 
 there are no problems.
 
