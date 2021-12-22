@@ -1,69 +1,76 @@
 # Radu Necsanu
 
-## Personal Profile
-After working in the Hotel Industry for several years and doing some freelancing as a developer I have decided to change careers and follow my passion for coding. Seamlessly in this world everything has measure, meaning, every line of code has purpose and everything can be achieved employing the right tools. I have worked with a few programming languages but that it is not important what is important is that my skills born with or developed in time are congruent with scripting that is language agnostic, dry while test driven, object oriented, short but descriptive whether in Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less) or testing in Jasmine, Jest, Rspec. Simply I can not see my self doing anything else and extend as much of me into it, enjoying every single second of overwhelming rigor.
-I expect mutual trust, collaboration, honesty and underlying patience. I will bring with me unconditionally: adaptability, analytical skills, efficiency, self-learning capabilities, problem solving strive, resilience and responsibility.
+### Profile
+Passionate, test-driven software developer adept at contributing to collaborative work environment, finding solutions, and determining client satisfaction.
+Dedicated to driving innovation with the ability to follow industry and technological trends and facilitating early adoption of innovations. Currently seeking a Software Developer role with a reputable organisation.
 
-### Case study
-* In my previous work place(hotel) from scratch, knowing nothing about programming I have managed to create a Hotel Management App that worked on a local machine and in the end convinced the management to employ online tech for the job using Little Hotelier. This decision changed all the aspects of the business in a positive way, increasing productivity, sales even if we were not necessarily at the time the most appealing brand on the street.
-* Same work place with the purpose of ensuring a landing place in the top 3(settable) for us on Booking.com on the first page using again local means, our own Chrome extension I have developed an exciting and perfectly calibrated way of updating the prices on Little Hotelier in real time based on a report produced while scanning Booking.com for months ahead.
-* As a developer so often in need of a regular expression and never tacking the time to learn the whole concept out of scope for the code I was working on but repeating the same route a couple of times I believed in the opportunity to created a web app that generates regular expressions using user input in a human readable way(https://doregex.com) with all the options one can think of.
-* As a developer I have written libraries(https://httpraw.com) for PHP trying to couple it definitively to Javascript as it should be since the latter one is not optional. That allowed me to write huge amounts of code years ago(code that as performance could not be beaten today whether in PHP or Javascript), still delivers as expected to this day and I have used that in the projects I have worked on after. Like this web application(https://httpasap.com) that enhances the workplace communication and workflow control, it allows file encryption(creating one of the best algorithms for encryption out there), priority selection, level access etc.
-* As a developer on my final project with Makers Bootcamp I had to work for personal reasons on my own and only for a week out of the two and still was able to produce a full game in React, another puzzle type of game Golfsaga(https://golfsaga.herokuapp.com).
+### Personal Motto
+I run with a problem until certain of a proposed solution then the solution runs with me until certain 
+there are no problems.
+
+### Key Skills
+Excellent organiser committed to quality
+Thorough and attentive to detail taking in consideration all possible options
+Persistent and determined to meet deadlines and expectations
+Analytical within the present layer as much as the whole of the product and all its processes
+
+### Technical Skills
+Javascript, PHP, Ruby(on Rails), React, Node.js, Typescript, SQL, HTML, CSS(Bootstrap, Sass, Less), Version Control(Git), Testing(Jasmine, Jest, Rspec).
+
+### Working History
+#### Freelance Web Developer						2016-Present
+Define web-app requirements and means of integration
+Decide stack usability, acknowledge its limitations
+Generate unique solutions that exceed expectations becoming a competitive edge
+Deployment to production investigating extended versions of the product for future operations
+
+#### Reception Manager/receptionist, Springfield Hotel, London		Sep 2011-Jun 2021
+Among other, responsible for the line management of the reception team
+Recruitment, induction and training of receptionists and meeting room co-ordinators.
+Leading, monitoring, motivating, and inspiring the team; providing guidance and support.
+Review of existing standards and procedures while implementing new best practices to ensure a seamless delivery of Front of House Services 
+Gas Engineer, Aquaterm, Romania					May 2006-Sep 2008
+
+### Education & Qualifications
+#### Makers Academy Bootcamp						July-Oct 2021
+Frequently used paring in order to problem solve efficiently, requiring teamwork and communication
+OOP, TDD, MVC, DDD
+Agile/XP
+Ruby, Rails, JavaScript
+RSpec, Jasmine, Jest
+
+#### Coursera								Oct 2020
+Introduction to UI Design	
+Front-End Web UI Frameworks and Tools: Bootstrap 4
+
+#### Gheorghe Asachi Technical University of Iași			             Sep 2003-Jun 2006
+Bachelors – Materials Engineering			
 
 
-## Projects 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, Bootstrap |
-| **https://httpraw.com** | Centralised PHP library pretty much React in PHP. | PHP, Javascript |
-| **https://httpasap.com** | Workplace communication and workflow control tool. | PHP, HTML, Javascript, Jquery, CSS |
-| **https://golfsaga.herokuapp.com** | Another puzzle type of game | React, Node.js, Javascript |
-| **https://chitter-mern.herokuapp.com/** | Another twitter type of app | Mongodb, Express, React, Node.js, Javascript |
 
-## Skills
-**Programming**<br />
-_Javascript, PHP, Ruby(on Rails), React, SQL, HTML, CSS(+Bootstrap, Sass, Less), Git._<br />
-**Testing**<br />
-_Jasmine, Jest, Rspec_
+### Github 
+https://github.com/necsanuradu?tab=repositories 
 
-## GitHub
-#### Final Project
- - _Golfsaga(stack Express, React, Node). Another puzzle type of game: https://github.com/necsanuradu/golfsaga_
-#### Final Code Quality Reviews
-- _Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test_
-- _Gilded Rose Tech test(Javascript/TDD Jasmine): https://github.com/necsanuradu/gilded-rose-tech-test_
-#### Other Projects and Challenges
-- _https://github.com/necsanuradu?tab=repositories_
+#### Final Project  
+• Golfsaga (stack Express, React, Node). Another puzzle type of game: https://github.com/ necsanuradu/golfsaga  
 
-## Certifications/Licences
-**Makers Academy Bootcamp** (July to October 2021)<br />
-Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Jest
+#### Final Code Quality Reviews  
+• Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test  
+• Gilded Rose Tech test(Javascript/TDD Jasmine): https://github.com/necsanuradu/gilded-rose-tech-test  
+• Other projects and challenges: https://github.com/necsanuradu/	
 
-**Introduction to UI Design** (October 2020)<br />
-_Authorized by University of Minnesota and offered through Coursera_
 
-**Front-End Web UI Frameworks and Tools: Bootstrap 4**(October 2020)<br />
-_Authorized by The Hong Kong University of Science and Technology and offered through Coursera_
+### Achievements
+Created a Hotel Management App that worked on a local machine and in the end convinced the management to employ online tech for the job using Little Hotelier. This decision changed all the aspects of the business in positive ways, increasing productivity, sales even if we were not necessarily at the time the most appealing brand on the street. 
 
-## Education
-**Univ Gh.Asachi - Iasi, Romania** (September 2003 to June 2006)<br />
-_Diploma of Higher Education in Materials Engineering_
+With the purpose of ensuring a landing place in the top 3(settable) for us (Springfield Hotel) on Booking.com on the first page using again local means, our own Chrome extension I have developed an exciting and perfectly calibrated way of updating the prices on Little Hotelier in real time based on a report produced while mining Booking.com for months ahead.
 
-## Work Experience
-**Springfield Hotel - London** (September 2011 to June 2021) <br />
-_Reception Manager/Receptionist_
-- working in fast paced environment with lots of communication channels.
-- impeccable customer service, payments, rota, wages, conflict resolution, hiring, pricing..
+### Passionate about
+Poetry, published my first book, titled Crevase, back in 2016
 
-**Aquaterm - Romania** (May 2006 to September 2008)<br />
-_Gas Engineer_
-- planning and supervision of works on extending the gas network.
 
-## Hobbies
-* _Tennis, I always enjoy playing it, you could say that I know very little about it but this did not stopped me from starting to teach my daughter how to play it and with great results too._
-* _I write poetry sometimes when I get the call, I have published a book in 2016(Crevasses) in the Romanian language._
+
+
+
+
+
