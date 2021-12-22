@@ -62,7 +62,7 @@ Bachelors – Materials Engineering
 https://github.com/necsanuradu?tab=repositories 
 
 #### Final Project  
-_Golfsaga (stack Express, React, Node). Another puzzle type of game: https://github.com/ necsanuradu/golfsaga_ 
+_Golfsaga (stack Express, React, Node). Another puzzle type of game: https://github.com/necsanuradu/golfsaga_ 
 
 #### Final Code Quality Reviews  
 * _Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test_ 
