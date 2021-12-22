@@ -9,13 +9,22 @@ I run with a problem until certain of a proposed solution then the 
 there are no problems.
 
 ### Key Skills
-Excellent organiser committed to quality
-Thorough and attentive to detail taking in consideration all possible options
-Persistent and determined to meet deadlines and expectations
-Analytical within the present layer as much as the whole of the product and all its processes
+* _Excellent organiser committed to quality_
+* _Thorough and attentive to detail taking in consideration all possible options_
+* _Persistent and determined to meet deadlines and expectations_
+* _Analytical within the present layer as much as the whole of the product and all its processes_
 
 ### Technical Skills
 Javascript, PHP, Ruby(on Rails), React, Node.js, Typescript, SQL, HTML, CSS(Bootstrap, Sass, Less), Version Control(Git), Testing(Jasmine, Jest, Rspec).
+
+## Projects 
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, Bootstrap |
+| **https://httpraw.com** | Centralised PHP library pretty much React in PHP. | PHP, Javascript |
+| **https://httpasap.com** | Workplace communication and workflow control tool. | PHP, HTML, Javascript, Jquery, CSS |
+| **https://golfsaga.herokuapp.com** | Another puzzle type of game | React, Node.js, Javascript |
+| **https://chitter-mern.herokuapp.com/** | Another twitter type of app | Mongodb, Express, React, Node.js, Javascript |
 
 ### Working History
 #### Freelance Web Developer						2016-Present
