@@ -28,29 +28,30 @@ Javascript, PHP, Ruby(on Rails), React, Node.js, Typescript, SQL, HTML, CSS(Boot
 
 ### Working History
 #### Freelance Web Developer						2016-Present
-Define web-app requirements and means of integration
-Decide stack usability, acknowledge its limitations
-Generate unique solutions that exceed expectations becoming a competitive edge
-Deployment to production investigating extended versions of the product for future operations
+* _Define web-app requirements and means of integration_
+* _Decide stack usability, acknowledge its limitations_
+* _Generate unique solutions that exceed expectations becoming a competitive edge_
+* _Deployment to production investigating extended versions of the product for future operations_
 
 #### Reception Manager/receptionist, Springfield Hotel, London		Sep 2011-Jun 2021
-Among other, responsible for the line management of the reception team
-Recruitment, induction and training of receptionists and meeting room co-ordinators.
-Leading, monitoring, motivating, and inspiring the team; providing guidance and support.
-Review of existing standards and procedures while implementing new best practices to ensure a seamless delivery of Front of House Services 
-Gas Engineer, Aquaterm, Romania					May 2006-Sep 2008
+* _Among other, responsible for the line management of the reception team_
+* _Recruitment, induction and training of receptionists and meeting room co-ordinators_
+* _Leading, monitoring, motivating, and inspiring the team; providing guidance and support_
+* _Review of existing standards and procedures while implementing new best practices to ensure a seamless delivery of Front of House Services_
+
+#### Gas Engineer, Aquaterm, Romania					May 2006-Sep 2008
 
 ### Education & Qualifications
 #### Makers Academy Bootcamp						July-Oct 2021
 Frequently used paring in order to problem solve efficiently, requiring teamwork and communication
-OOP, TDD, MVC, DDD
-Agile/XP
-Ruby, Rails, JavaScript
-RSpec, Jasmine, Jest
+* _OOP, TDD, MVC, DDD_
+* _Agile/XP_
+* _Ruby, Rails, JavaScript_
+* _RSpec, Jasmine, Jest_
 
 #### Coursera								Oct 2020
-Introduction to UI Design	
-Front-End Web UI Frameworks and Tools: Bootstrap 4
+* _Introduction to UI Design_
+* _Front-End Web UI Frameworks and Tools: Bootstrap_
 
 #### Gheorghe Asachi Technical University of Iași			             Sep 2003-Jun 2006
 Bachelors – Materials Engineering			
@@ -61,12 +62,12 @@ Bachelors – Materials Engineering
 https://github.com/necsanuradu?tab=repositories 
 
 #### Final Project  
-• Golfsaga (stack Express, React, Node). Another puzzle type of game: https://github.com/ necsanuradu/golfsaga  
+_Golfsaga (stack Express, React, Node). Another puzzle type of game: https://github.com/ necsanuradu/golfsaga_ 
 
 #### Final Code Quality Reviews  
-• Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test  
-• Gilded Rose Tech test(Javascript/TDD Jasmine): https://github.com/necsanuradu/gilded-rose-tech-test  
-• Other projects and challenges: https://github.com/necsanuradu/	
+* _Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test_ 
+* _Gilded Rose Tech test(Javascript/TDD Jasmine): https://github.com/necsanuradu/gilded-rose-tech-test_  
+* _Other projects and challenges: https://github.com/necsanuradu/_
 
 
 ### Achievements
