@@ -17,7 +17,7 @@ Dedicated to driving innovation with the ability to follow industry and technolo
 ### Technical Skills
 Javascript, PHP, Ruby(on Rails), React, Node.js, Typescript, SQL, HTML, CSS(Bootstrap, Sass, Less), Version Control(Git), Testing(Jasmine, Jest, Rspec).
 
-## Projects 
+### Projects 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, Bootstrap |
