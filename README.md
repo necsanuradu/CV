@@ -52,7 +52,7 @@ _Golfsaga (stack Express, React, Node). Another puzzle type of game: https://gol
 * _Other projects and challenges: https://github.com/necsanuradu_
 
 
-### Achievements
+### Examples
 Created a Hotel Management App that worked on a local machine and in the end convinced the management to employ online tech for the job using Little Hotelier. This decision changed all the aspects of the business in positive ways, increasing productivity, sales even if we were not necessarily at the time the most appealing brand on the street. 
 
 With the purpose of ensuring a landing place in the top 3(settable) for us (Springfield Hotel) on Booking.com on the first page using again local means, our own Chrome extension I have developed an exciting and perfectly calibrated way of updating the prices on Little Hotelier in real time based on a report produced while mining Booking.com for months ahead.
