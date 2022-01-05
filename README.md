@@ -1,7 +1,7 @@
 # Radu Necsanu
 
 ### Profile
-Whilst I do not have the work experience, I have a good work ethic, I do well with rejection and I am motivated to succeed. I am as passionate about my opinions as I am fascinated about yours, I believe in collaborative work that leads to finding better solutions and ultimately leads to customer satisfaction.
+Whilst I do not have the developer commercial work experience, I have a good work ethic, I do well with rejection and I am motivated to succeed. I am as passionate about my opinions as I am fascinated about yours, I believe in collaborative work that leads to finding better solutions and ultimately leads to customer satisfaction.
 
 Where will I stand within your company? Well honestly I will try and change it, improve what it is already working, having some code options on the table and you will be tempted to tell me to back off(since you are happy as it is) but please do not, instead you will guide my efforts in the right direction without having to reinvent the wheel but adding wings and thrusters almost forgetting about the principle of equivalence.
 
