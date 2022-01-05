@@ -49,7 +49,7 @@ _Golfsaga (stack Express, React, Node). Another puzzle type of game: https://git
 #### Final Code Quality Reviews  
 * _Bank Tech Test(Javascript/TDD Jasmine): https://github.com/necsanuradu/bank-tech-test_ 
 * _Gilded Rose Tech test(Javascript/TDD Jasmine): https://github.com/necsanuradu/gilded-rose-tech-test_ 
-* _Other projects and challenges: https://github.com/necsanuradu/
+* _Other projects and challenges: https://github.com/necsanuradu_
 
 
 ### Achievements
