@@ -18,10 +18,7 @@ Javascript, PHP, Ruby(on Rails), React, Node.js, Typescript, SQL, HTML, CSS(Boot
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **https://doregex.com** | A web app that facilitates the usage of regular expressions. | PHP, HTML, Javascript, Bootstrap |
-| **https://httpraw.com** | Centralised PHP library pretty much React in PHP. | PHP, Javascript |
-| **https://httpasap.com** | Workplace communication and workflow control tool. | PHP, HTML, Javascript, Jquery, CSS |
 | **https://golfsaga.herokuapp.com** | Another puzzle type of game | React, Node.js, Javascript |
-| **https://chitter-mern.herokuapp.com/** | Another twitter type of app | Mongodb, Express, React, Node.js, Javascript |
 
 ### Working History
 #### Freelance Web Developer						2016-Present
