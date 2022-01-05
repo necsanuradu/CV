@@ -5,7 +5,7 @@ Whilst I do not have the developer commercial work experience, I have a good wor
 
 Where will I stand within your company? Well honestly I will try and change it, improve what it is already working, having some code options on the table and you will be tempted to tell me to back off(since you are happy as it is) but please do not, instead you will guide my efforts in the right direction without having to reinvent the wheel but adding wings and thrusters almost forgetting about the principle of equivalence.
 
-Dedicated to driving innovation with the ability to follow industry and technological trends and facilitating early adoption of innovations. Currently seeking a Software Developer role with a reputable organisation.
+I am committed to quality, dedicated to driving innovation with the ability to follow industry and technological trends and facilitating early adoption of innovations. Currently seeking a Software Developer role with a reputable organisation.
 
 
 ### Key Skills
