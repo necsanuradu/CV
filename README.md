@@ -1,7 +1,7 @@
 # Radu Necsanu
 
 ### Profile
-Whilst I do not have the developer commercial work experience, I have a good work ethic, I do well with rejection, and I am motivated to succeed. I am committed to quality and passionate about my opinions as I am fascinated about yours, I believe in collaborative work that leads to finding better solutions and ultimately to customer satisfaction.
+Whilst I do not have the developer commercial work experience, I have a good work ethic, I do well with rejection, and I am motivated to succeed. I am committed to quality and believe in collaborative work that leads to finding better solutions and ultimately to customer satisfaction.
 
 Dedicated to driving innovation with the ability to follow industry and technological trends and facilitating early adoption of innovations. Currently seeking a Software Developer role with a reputable organisation.
 
